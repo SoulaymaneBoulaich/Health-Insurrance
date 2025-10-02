@@ -110,7 +110,7 @@ Ensure you have Python 3.8 or higher installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/insurance-analysis.git
+git clone https://github.com/SoulaymaneBoulaich/insurance-analysis.git
 
 # Navigate to project directory
 cd insurance-analysis
@@ -191,9 +191,9 @@ Contributions are what make the open source community amazing! Any contributions
 
 **Project Maintainer**: Soulaymane Boulaich
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/soulaymane-boulaich-b08ba532b/)
-- 🐙 GitHub: [@yourusername](https://github.com/SoulaymaneBoulaich)
+- 📧 Email: Soulaymaneboulaich@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/soulaymane-boulaich-b08ba532b/
+- 🐙 GitHub: https://github.com/SoulaymaneBoulaich
 
 ## ⭐ Show Your Support
 
